@@ -1,0 +1,70 @@
+﻿
+body {
+    background-color: grey;
+    /*   width: 600px;*/
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin: 0 auto;
+}
+
+div {
+    background-color: lightblue;
+}
+
+p {
+    border: 1px solid black;
+}
+
+h1 {
+    color: white;
+    background-color: red;
+    text-align: left;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+    margin: 0 auto;
+}
+/* definicja elementu html*/
+h2 {
+    text-align: left;
+    height: 30px;
+    padding-top: 0px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+    margin: 0 auto;
+}
+
+/* definicja id*/
+#main {
+    color: black;
+    height: 120px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+
+#jeden {
+    color: white;
+    background-color: darkgreen;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+#dwa {
+    color: white;
+    background-color: red;
+}
+
+#trzy {
+    color: black;
+    background-color: yellow;
+}
+
+/* definicja class*/
+.klasa {
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
